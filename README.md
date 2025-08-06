@@ -3,10 +3,7 @@
 **Translate Indian Sign Language (ISL) to text using real-time camera input, gesture detection, and machine learning.**  
 📷🤖📝 Built with Python, Mediapipe, TensorFlow, and CustomTkinter for an interactive GUI.
 
----
-![SharedScreenshot](https://github.com/user-attachments/assets/0fd6decf-a1e7-4ecd-a096-450f726d8b3d)
-![Screenshot 2025-07-14 095917](https://github.com/user-attachments/assets/7e737a00-a281-41eb-bea7-76653a016e96)
----
+
 
 ## 🧩 Problem Statement
 
@@ -66,17 +63,8 @@ We trained the system to recognize commonly used ISL gestures like:
 
 <img width="267" height="189" alt="image" src="https://github.com/user-attachments/assets/b6b3bd0a-bfc3-4958-a872-906ff87d8144" />
 
----
-## Installation ⚙️
-```bash
-git clone https://github.com/kanishka-raisania/Sign-Language-Translator.git
-cd Sign-Language-Translator
-pip install -r requirements.txt
-python app.py
-
-## Contributing 🤝
-Contributions are welcome! Fork the repo, make changes, and open a pull request.
+come! Fork the repo, make changes, and open a pull request.
 
 ## Author 👩‍💻
-**Kanishka Raisania**  
+**Aryan Jain**  
 B.Tech CSE @ NSUT  
